@@ -10,3 +10,8 @@ Este projeto é uma página web simples que exibe meu nome, uma foto de perfil e
 
 - HTML
 - CSS
+
+![Print Meu Projeto]
+
+(https://github.com/user-attachments/assets/b7cb0d9e-3e8b-401e-8278-de1092cf6d01)
+
